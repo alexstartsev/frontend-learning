@@ -4,4 +4,4 @@ Day 1: Git basics learned
 Token added
 
 Day 2: Mastered Git branching, merging and rebasing
-Day 2: Learned Git HEAD/refs and more HTML tags (paragraphs, lists)
+Day 2: Mastered Git cherry-pick, HEAD/refs. and HTML tables, links, code
